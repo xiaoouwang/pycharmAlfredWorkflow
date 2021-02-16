@@ -1,16 +1,30 @@
-# pycharmAlfredWorkflow
+## Two Alfred Plugins
 
-An alfred workflow plugin:
+pycharmAlfredWorkflow and rstudioAlfredWorkflow
 
-Open a folder with pycharm.
+Two alfred workflow plugins:
 
-Using the keyword "py", search for only folders within your home folder.
+- py, pyf, open a folder with Pycharm.
 
-Using the keyword "pyf", search for only files within your home folder.
+- rs, rsf, open a folder with Rstudio.
+
+## Instructions
+
+- Using the keyword "py", search for only folders within your home folder.
+
+- Using the keyword "pyf", search for only files within your home folder.
+
+- Using the keyword "rs", search for only folders within your home folder.
+
+- Using the keyword "rsf", search for only files within your home folder.
 
 Hit Return to open the file/folder.
+
+## Download
 
 [Download](https://github.com/xiaoouwang/pycharmAlfredWorkflow/raw/main/OpenCharm.alfredworkflow)
 
 ![](img/README/2021-02-16-20-21-59.png)
+
 ![](img/README/2021-02-16-20-22-17.png)
+
