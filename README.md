@@ -22,7 +22,9 @@ Hit Return to open the file/folder.
 
 ## Download
 
-[Download](https://github.com/xiaoouwang/pycharmAlfredWorkflow/raw/main/OpenCharm.alfredworkflow)
+[Download pycharmAlfredWorkflow](https://github.com/xiaoouwang/pycharmAlfredWorkflow/raw/main/OpenCharm.alfredworkflow)
+
+[Download rstudioAlfredWorkflow](https://github.com/xiaoouwang/pycharmAlfredWorkflow/raw/main/OpenR.alfredworkflow)
 
 ![](img/README/2021-02-16-20-21-59.png)
 
